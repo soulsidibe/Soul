@@ -1,2 +1,2 @@
 # Soul
-I'm student in Master 2 and I'm doing Informatique and Telecommunication 
+Hi, my name is soul and I'm a software engineer. I love sharing my knowledge and being part of innovative projects.
